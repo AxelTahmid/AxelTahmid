@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2> Hey there! I'm Shahadat Hossain Tahmid. </h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**AxelTahmid/AxelTahmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
+- 🔭 &nbsp; I’m a full stack web developer with 2 years of experience 
+- 🔭 &nbsp; Experienced in developing SaaS solutions
+- 💼 &nbsp; I ensure best practices and coding conventions
+- 🌱 &nbsp; Always exploring new technologies and learning
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; HTML | CSS | Bootstrap | Tailwind | Vuetify
+- 💻 &nbsp; JavaScript | Vue | Nuxt | React
+- 🌐 &nbsp; PHP | Laravel | Symfony | Codeigniter
+- 🌐 &nbsp; NodeJs | Fastify | Adonis
+- 🛢 &nbsp;  MySQL | MariaDB | PostgreSQL
+- 🛢 &nbsp;  Eloquent | Doctrine | Prisma | KnexJs
+- ⚡ &nbsp; Docker | Kubernetes | Linux Administration (Ubuntu, CentOS )
+- 🔧 &nbsp; Git | Github | Bitbucket | Gitlab
+- 🔧 &nbsp; Eslint | Prettier
+- 🔧 &nbsp; Jira | Asana
+- 🔧 &nbsp; Salesforce Integrations
+
+<br>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+🌐 &nbsp; www.cypher90.com 
+📫 &nbsp; axel.tahmid@gmail.com
+</p>
