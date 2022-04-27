@@ -54,13 +54,13 @@
   <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### 🧰 Back End Frameworks & CMS
+### 🧰 Back End Frameworks & Tools
 
 <p align="left"> 
   &emsp;
   <a href="#"><img alt="Fastify" src="https://img.shields.io/badge/Fastify-%23000000.svg?logo=fastify&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Laravel" src="	https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"></a>
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-%23000000.svg?logo=symfony&logoColor=white"></a>
   &emsp;
@@ -68,14 +68,38 @@
   &emsp;
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Adonis" src="  https://img.shields.io/badge/Adonis.js-%23220052.svg?logo=adonisjs&logoColor=white"></a>
+  <a href="#"><img alt="Adonis" src="https://img.shields.io/badge/Adonis.js-%23220052.svg?logo=adonisjs&logoColor=white"></a>
+    &emsp;
+  <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"></a>
+
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases
 
 <p align="left"> 
   &emsp;
-  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySql-%2300f.svg?logo=mysql&logoColor=white"></a>
+    &emsp;
+  <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
+    &emsp;
+  <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"></a>
+    &emsp;
+  <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
+</p>
+
+### ☁ Cloud Hosting
+
+<p align="left"> 
+    &emsp;
+  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white"></a>
+    &emsp;
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
+    &emsp;
+  <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
+    &emsp;
+  <a href="#"><img alt="OVH" src="https://img.shields.io/badge/OVH-%23123F6D.svg?logo=ovh&logoColor=#123F6D"></a>
+    &emsp;
+  <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"></a>
 
 </p>
 
