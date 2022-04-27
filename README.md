@@ -1,8 +1,8 @@
 ## Hey there! I'm Shahadat Hossain Tahmid.
 
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<img align='right' src="coding.gif" width="250">
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a> -->
 
 ## 👨🏻‍💻 About Me
 
@@ -11,7 +11,7 @@
 - 💼 &nbsp; I ensure best practices and coding conventions
 - 🌱 &nbsp; Always exploring new technologies and learning
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a> -->
 
 ## 🛠 Tech Stack
 
