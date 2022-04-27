@@ -32,11 +32,27 @@
   <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
    </a>
   &emsp;
+  <a href="#"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
+   </a>
+  &emsp;
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
    </a>
 </p>
 
 ### 🌐 Front End Frameworks and Libraries
+
+<p align="left"> 
+  &emsp;
+  <a href="#"><img alt="VueJs" src="https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D"></a>
+  &emsp;
+  <a href="#"><img alt="VueJs" src="https://img.shields.io/badge/Nuxt-35495E?logo=nuxt.js&logoColor=4FC08D"></a>
+  &emsp;
+  <a href="#"><img alt="VueJs" src="https://img.shields.io/badge/Vuetify-35495E?logo=vuetify&logoColor=4FC08D"></a>
+  &emsp;
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"></a>
+</p>
 
 ### 🧰 Back End Frameworks
 
