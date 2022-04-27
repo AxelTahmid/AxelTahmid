@@ -18,7 +18,7 @@
 ### 👨‍💻 Programming Languages
 
 <p align="left"> 
-     &emsp;
+  &emsp;
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -32,10 +32,8 @@
   <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
    </a>
   &emsp;
-   <a href="#">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+   </a>
 </p>
 
 ### 🌐 Front End Frameworks and Libraries
@@ -48,7 +46,7 @@
 
 ### 👨🏽‍💻 Workspace
 
-- 💻 &nbsp; HTML | CSS | Bootstrap | Tailwind | Vuetify
+<!-- - 💻 &nbsp; HTML | CSS | Bootstrap | Tailwind | Vuetify
 - 💻 &nbsp; JavaScript | Vue | Nuxt | React
 - 🌐 &nbsp; PHP | Laravel | Symfony | Codeigniter | WordPress
 - 🌐 &nbsp; NodeJs | Fastify | Adonis
@@ -58,13 +56,16 @@
 - 🔧 &nbsp; Git | Github | Bitbucket | Gitlab
 - 🔧 &nbsp; Eslint | Prettier
 - 🔧 &nbsp; Jira | Asana
-- 🔧 &nbsp; Salesforce Integrations
+- 🔧 &nbsp; Salesforce Integrations -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
 
-<h3> 🤝🏻 Connect with Me </h3>
+### 🤝🏻 Connect with Me
 
 <p align="center">
-🌐 &nbsp; www.cypher90.com 
-📫 &nbsp; axel.tahmid@gmail.com
+  <a href="https://cypher90.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:axel.tahmid@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/AxelTahmid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/shahadat-hossain-tahmid-338a8b179/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+<hr/>
