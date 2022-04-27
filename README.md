@@ -39,33 +39,63 @@
    </a>
 </p>
 
-### 🌐 Front End Frameworks and Libraries
+### 🌐 Front End Frameworks & Libraries
 
 <p align="left"> 
   &emsp;
   <a href="#"><img alt="VueJs" src="https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D"></a>
   &emsp;
-  <a href="#"><img alt="VueJs" src="https://img.shields.io/badge/Nuxt-35495E?logo=nuxt.js&logoColor=4FC08D"></a>
+  <a href="#"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxtdotjs&logoColor=#00DC82"></a>
   &emsp;
-  <a href="#"><img alt="VueJs" src="https://img.shields.io/badge/Vuetify-35495E?logo=vuetify&logoColor=4FC08D"></a>
+  <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF"></a>
   &emsp;
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"></a>
+  <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### 🧰 Back End Frameworks
+### 🧰 Back End Frameworks & CMS
+
+<p align="left"> 
+  &emsp;
+  <a href="#"><img alt="Fastify" src="https://img.shields.io/badge/Fastify-%23000000.svg?logo=fastify&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Laravel" src="	https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-%23000000.svg?logo=symfony&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?logo=codeIgniter&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Adonis" src="  https://img.shields.io/badge/Adonis.js-%23220052.svg?logo=adonisjs&logoColor=white"></a>
+</p>
 
 ### 🗄️ Databases and Cloud Hosting
 
+<p align="left"> 
+  &emsp;
+  <a href="#"><img alt="" src=""></a>
+
+</p>
+
 ### 💻 Software and Tools
+
+<p align="left"> 
+  &emsp;
+  <a href="#"><img alt="" src=""></a>
+
+</p>
 
 ### 👨🏽‍💻 Workspace
 
-<!-- - 💻 &nbsp; HTML | CSS | Bootstrap | Tailwind | Vuetify
-- 💻 &nbsp; JavaScript | Vue | Nuxt | React
-- 🌐 &nbsp; PHP | Laravel | Symfony | Codeigniter | WordPress
-- 🌐 &nbsp; NodeJs | Fastify | Adonis
+<p align="left"> 
+  &emsp;
+  <a href="#"><img alt="" src=""></a>
+
+</p>
+
+<!--
 - 🛢 &nbsp; MySQL | MariaDB | PostgreSQL
 - 🛢 &nbsp; Eloquent | Doctrine | Prisma | KnexJs
 - ⚡ &nbsp; Docker | Kubernetes | Linux Administration (Ubuntu, CentOS )
