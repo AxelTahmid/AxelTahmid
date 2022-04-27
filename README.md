@@ -17,41 +17,28 @@
 
 ### 👨‍💻 Programming Languages
 
-<p align="left"> 
-  &emsp;
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-  &emsp;
-  <a href="#"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
-   </a>
-  &emsp;
-  <a href="#"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
-   </a>
-  &emsp;
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-   </a>
+<p align="left">
+
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)&emsp;
+![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)&emsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)&emsp;
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)&emsp;
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)&emsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)&emsp;
+![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)
+
 </p>
 
 ### 🌐 Front End Frameworks & Libraries
 
-<p align="left"> 
-  &emsp;
-  <a href="#"><img alt="VueJs" src="https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D"></a>
-  &emsp;
-  <a href="#"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxtdotjs&logoColor=#00DC82"></a>
-  &emsp;
-  <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF"></a>
-  &emsp;
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white"></a>
+<p align="left">
+
+![Vue.js](https://img.shields.io/badge/Vue-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)&emsp;
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxtdotjs&logoColor=#00DC82)&emsp;
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF)&emsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)&emsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+
 </p>
 
 ### 🧰 Back End Frameworks & Tools
@@ -119,13 +106,6 @@
 ![Cent OS](https://img.shields.io/badge/Cent%20OS-002260?logo=centos&logoColor=F0F0F0)&emsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)&emsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&emsp;
-</p>
-
-### 👨🏽‍💻 Workspace
-
-<p align="left"> 
-  &emsp;
-
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
