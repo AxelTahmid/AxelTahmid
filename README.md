@@ -47,7 +47,6 @@
 
 ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?logo=fastify&logoColor=white)&emsp;
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)&emsp;
-![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?logo=symfony&logoColor=white)&emsp;
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?logo=codeIgniter&logoColor=white)&emsp;
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)&emsp;
 ![AdonisJS](https://img.shields.io/badge/Adonis-%23220052.svg?logo=adonisjs&logoColor=white)&emsp;
@@ -62,7 +61,6 @@
 <p align="left">
 
 ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?logo=mysql&logoColor=white)&emsp;
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)&emsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)&emsp;
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 
@@ -99,13 +97,10 @@
 <p align="left"> 
   	
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)&emsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)&emsp;
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white)&emsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)&emsp;
-![Alpine Linux](https://img.shields.io/badge/Alpine-%230D597F.svg?logo=alpine-linux&logoColor=white)&emsp;
-![Cent OS](https://img.shields.io/badge/Cent%20OS-002260?logo=centos&logoColor=F0F0F0)&emsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)&emsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&emsp;
+	
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
