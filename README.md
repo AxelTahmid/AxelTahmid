@@ -6,12 +6,11 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m a full stack web developer with 2 years of experience
 - 🔭 &nbsp; Experienced in developing SaaS solutions
 - 💼 &nbsp; I ensure best practices and coding conventions
 - 🌱 &nbsp; Always exploring new technologies and learning
 
-<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a> -->
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
 
 ## 🛠 Tech Stack
 
@@ -101,7 +100,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)&emsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)&emsp;
 	
-</p>
+</p> 
+-->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
 
