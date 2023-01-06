@@ -2,13 +2,10 @@
 
 <img align='right' src="coding.gif" width="250">
 
-<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a> -->
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; Experienced in developing SaaS solutions
-- 💼 &nbsp; I ensure best practices and coding conventions
-- 🌱 &nbsp; Always exploring new technologies and learning
+Software Engineer with 4 years of collective experience in providing solutions and developing modern web applications. I have delivered MVP for eCommerce handling over 4M requests per month, and solutions to serve over 100TB of content from google cloud to SaaS services with nearly 1000 daily active users. Get in touch -> axel.tahmid@gmail.com
 
 <!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
 
@@ -108,10 +105,10 @@
 ### 🤝🏻 Connect with Me
 
 <p align="center">
-  <a href="https://tahmid.org"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+<!--   <a href="https://tahmid.org"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:axel.tahmid@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/AxelTahmid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/shahadat-hossain-tahmid-338a8b179/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/axel-tahmid/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
