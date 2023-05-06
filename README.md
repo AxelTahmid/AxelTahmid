@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Software Engineer experienced in providing solutions and developing modern web applications. I have delivered MVP for eCommerce handling over 4 Million requests per month, and solutions to serve over 100TB of content from google cloud to SaaS services with nearly 250,000 active users. I have a knack for tech and love to tinker. Get in touch ~
+Results-oriented full stack software engineer with 3+ years of experience in eCommerce and SaaS applications. Proficient in Node.js, Laravel, and Google Cloud Platform. Passionate about creating secure, scalable, and efficient solutions that drive business growth. Get in touch ~
 
 <!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
 
