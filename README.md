@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Results-oriented full stack software engineer with 3+ years of experience in eCommerce and SaaS applications. Proficient in Node.js, Laravel, and Google Cloud Platform. Passionate about creating secure, scalable, and efficient solutions that drive business growth. Get in touch ~
+software engineer with a track record of delivering cloud-native apps and enterprise software. I'm all about building safe, scalable, and efficient solutions that help businesses grow. Plus, I'm into automating tech stuff. Get in touch ~
 
 <!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
 
