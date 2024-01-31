@@ -7,7 +7,7 @@
 
 Just another guy on a mission to turn caffeine into code. With a knack for crafting cloud-native apps and enterprise software, I'm the digital architect you never knew you needed. By day, I'm weaving the fabric of safe, scalable, and efficient solutions that fuel business growth. By night, you'll find me in a cozy code cave, automating tech wizardry to banish manual intervention. Love exploring the world of zeros and ones. 
 
-I write stuff here -> https://blog.tahmid.org
+I write stuff here -> [The Debug Plague](https://blog.tahmid.org)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
 
