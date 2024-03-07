@@ -7,9 +7,9 @@
 
 Just another guy on a mission to turn caffeine into code. With a knack for crafting cloud-native apps and enterprise software, I'm the digital architect you never knew you needed. By day, I'm weaving the fabric of safe, scalable, and efficient solutions that fuel business growth. By night, you'll find me in a cozy code cave, automating tech wizardry to banish manual intervention. Love exploring the world of zeros and ones. 
 
-## 🌐 I write stuff
+## 🌐 Blog
 
-I write technical getting started guides @ [The Debug Plague](https://blog.tahmid.org)
+I write technical guides focused around getting started @[The Debug Plague](https://blog.tahmid.org)
 
 - [Rust Lifetimes - The Borrow Checkers BFF](https://blog.tahmid.org/lifetimes-in-rust/)
 - [Unleashing Loki: Taming Logs in Kubernetes](https://blog.tahmid.org/log-aggregation-in-kubernetes-using-loki/)
