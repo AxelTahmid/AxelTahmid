@@ -1,20 +1,19 @@
-## Hey there! I am Shahadat Hossain (Tahmid).
+## Hey there! I am Mohammed Shahadat Hossain, also go by Tahmid.
 
 <img align='right' src="coding.gif" width="250">
 
 
 ## 👨🏻‍💻 About Me
 
-Just another guy on a mission to turn caffeine into code. With a knack for crafting cloud-native apps and enterprise software, I'm the digital architect you never knew you needed. By day, I'm weaving the fabric of safe, scalable, and efficient solutions that fuel business growth. By night, you'll find me in a cozy code cave, automating tech wizardry to banish manual intervention. Love exploring the world of zeros and ones. 
+4.6 years of experience in developing scalable cloud-native applications and enterprise software for early-stage startups and established companies across SaaS, edtech, and digital commerce. Proven ability to optimize cloud infrastructure and automate processes, achieving a 30% improvement in system reliability and annual savings of $50K. Experienced in managing agile teams.
 
 ## 🌐 Blog
 
-I write technical guides focused around getting started @[The Debug Plague](https://blog.tahmid.org)
+I write technical guides focused around getting started @[Tahmid](https://tahmid.org)
 
-- [Rust Lifetimes - The Borrow Checkers BFF](https://blog.tahmid.org/lifetimes-in-rust/)
-- [Unleashing Loki: Taming Logs in Kubernetes](https://blog.tahmid.org/log-aggregation-in-kubernetes-using-loki/)
-- [Exposing Kubernetes: Navigating the Ingress Odyssey](https://blog.tahmid.org/charting-the-ingress-nginx-course-a-kubernetes-odyssey/)
-- [Monitoring Kubernetes Cluster with Kube-Prometheus-Stack](https://blog.tahmid.org/monitor-your-kubernetes-cluster-with-the-kube/)
+- [Unleashing Loki: Taming Logs in Kubernetes](https://tahmid.org/k8s/loki-log-explorer)
+- [Exposing Kubernetes: Navigating the Ingress Odyssey](https://tahmid.org/k8s/ingress-nginx)
+- [Monitoring Kubernetes Cluster with Kube-Prometheus-Stack](https://tahmid.org/k8s/kube-prom-stack)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
 
