@@ -1,11 +1,11 @@
-## Hey there! I am Mohammed Shahadat Hossain, also go by Tahmid.
+## Hey there! I am Mohammed Shahadat Hossain, also go by Axel Tahmid.
 
 <img align='right' src="coding.gif" width="250">
 
 
 ## 👨🏻‍💻 About Me
 
-4.6 years of experience in developing scalable cloud-native applications and enterprise software for early-stage startups and established companies across SaaS, edtech, and digital commerce. Proven ability to optimize cloud infrastructure and automate processes, achieving a 30% improvement in system reliability and annual savings of $50K. Experienced in managing agile teams.
+5+ years of experience in developing scalable cloud-native applications and enterprise software for early-stage startups and established companies across SaaS, edtech, and digital commerce. Proven ability to optimize cloud infrastructure and automate processes. Experienced in managing agile teams.
 
 ## 🌐 Blog
 
